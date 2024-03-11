@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/Papaja/Desktop/Nastaj_Krolak/Counter.vhd,1707398654,vhdl,C:/Users/Papaja/Desktop/Nastaj_Krolak/TOP.vhd,,,counter,,,,,,,,
+C:/Users/Papaja/Desktop/Nastaj_Krolak/Debouncer.vhd,1707398626,vhdl,C:/Users/Papaja/Desktop/Nastaj_Krolak/TOP.vhd,,,debouncer,,,,,,,,
+C:/Users/Papaja/Desktop/Nastaj_Krolak/Mode3.vhd,1707350808,vhdl,C:/Users/Papaja/Desktop/Nastaj_Krolak/TOP.vhd,,,mode3,,,,,,,,
+C:/Users/Papaja/Desktop/Nastaj_Krolak/Mode8.vhd,1707398667,vhdl,C:/Users/Papaja/Desktop/Nastaj_Krolak/TOP.vhd,,,mode8,,,,,,,,
+C:/Users/Papaja/Desktop/Nastaj_Krolak/Prescaler.vhd,1707398639,vhdl,C:/Users/Papaja/Desktop/Nastaj_Krolak/TOP.vhd,,,prescaler,,,,,,,,
+C:/Users/Papaja/Desktop/Nastaj_Krolak/TOP.vhd,1707398609,vhdl,C:/Users/Papaja/Desktop/Nastaj_Krolak/testbench.vhd,,,top,,,,,,,,
+C:/Users/Papaja/Desktop/Nastaj_Krolak/testbench.vhd,1707426380,vhdl,,,,top_tb,,,,,,,,

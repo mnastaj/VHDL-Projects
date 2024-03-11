@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Papaja/Desktop/PRURE/Projekt_NK/Projekt_NK.sim/sim_1/impl/timing/xsim/TOP_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Counter
+INFO: [VRFC 10-311] analyzing module Debouncer
+INFO: [VRFC 10-311] analyzing module Debouncer_0
+INFO: [VRFC 10-311] analyzing module Debouncer_1
+INFO: [VRFC 10-311] analyzing module Mode3
+INFO: [VRFC 10-311] analyzing module Mode8
+INFO: [VRFC 10-311] analyzing module Prescaler
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-311] analyzing module glbl

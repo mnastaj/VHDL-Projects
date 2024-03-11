@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Counter.vhd" \
+"../../../../../Debouncer.vhd" \
+"../../../../../Mode3.vhd" \
+"../../../../../Mode8.vhd" \
+"../../../../../Prescaler.vhd" \
+"../../../../../TOP.vhd" \
+"../../../../../testbench.vhd" \
+
+# Do not sort compile order
+nosort
